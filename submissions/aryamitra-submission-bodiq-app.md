@@ -36,5 +36,8 @@ https://github.com/aryamitra06/bodiq
 ## Deployed Site URL
 https://bodiq.appwrite.network/
 
-## Demo Video/Photos  
-TODO
+## Demo Video/Photos
+Demo Video:
+<video src="https://github.com/user-attachments/assets/fe8907a5-db28-4378-a107-3af7d3e9516a" controls preload></video>
+Google Drive Link (HD Quality): https://drive.google.com/file/d/1TLSTgQHG6P0XTWvVXuUebMQj7KpOVP8_/view?usp=sharing
+
