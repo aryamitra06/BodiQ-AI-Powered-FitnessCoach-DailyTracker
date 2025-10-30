@@ -3,16 +3,12 @@
 ## GitHub handle
 _Enter your GitHub handle_
 
-<!--
-@adityaoberai
--->
+@aryamitra06
 
 ## Project Title
 _What is the name of your project?_
 
-<!--
-CodeCapture
--->
+BodiQ
 
 ## Project Description    
 _What have you built during the hackathon?_
