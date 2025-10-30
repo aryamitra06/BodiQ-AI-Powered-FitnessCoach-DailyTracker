@@ -1,72 +1,40 @@
-# Hackathon Submission: <PROJECT_NAME>
+# Hackathon Submission: BodiQ - Smart Fitness Tracking with AI Insights & Google Fit Sync
 
 ## GitHub handle
-_Enter your GitHub handle_
-
-@aryamitra06
+[@aryamitra06](https://github.com/aryamitra06/)
 
 ## Project Title
-_What is the name of your project?_
+BodiQ - Smart Fitness Tracking with AI Insights & Google Fit Sync
 
-BodiQ
+## Project Description
+BodiQ is a modern, intelligent fitness tracking app that helps you log, visualize, and improve your body progress with AI-powered insights. It integrates seamlessly with Google Fit to automatically sync your daily activity data and provides powerful tools to stay on track with your goals. With interactive charts, a Goal Creator, a Body Weight Logger, and AI-driven summaries, BodiQ transforms your fitness data into clear, motivational feedback. Whether you’re aiming to lose weight, gain muscle, or simply maintain a healthy lifestyle — BodiQ keeps you focused, consistent, and inspired.
 
-## Project Description    
-_What have you built during the hackathon?_
+## Inspiration behind the Project
+As a tech enthusiast and fitness lover, I wanted to build something that combined both my passions — technology and health. Having been working out consistently for the past two years, I’ve gained firsthand experience with the challenges of tracking progress, staying motivated, and interpreting fitness data meaningfully. I envisioned an app with a clean, modern UI and integrated AI features that not only tracks your body metrics but also analyzes trends, visualizes progress, and motivates users intelligently. That idea became BodiQ — a smart, aesthetically pleasing fitness companion built for people who take both fitness and good design seriously.
 
-<!--
-The project I created is...
--->
-
-## Inspiration behind the Project  
-_What is the story behind this project? Why did you choose to work on this specific idea?_
-
-<!--
-The reason I chose this idea/project was...
--->
-
-## Tech Stack    
-_How have you built this project? Mention the technologies/methods/platforms you used to build your project_
-
-<!--
-The technologies I used...
--->
+## Tech Stack
+- React Native (Expo)
+- Appwrite SDK
+- Google Fit API
+- Redux Toolkit
+- RTK Query
+- Tamagui
+- Gemini Generative AI
 
 ### Appwrite products
-_Select all the Appwrite products you have used in your project_
-
-<!--
-Update the checkbox to [x] for the products used.
-
-e.g.:
-
-- [x] Auth 
--->
-
-- [ ] Auth
-- [ ] Databases
+- [x] Auth
+- [x] Databases
 - [ ] Storage
 - [ ] Functions
 - [ ] Messaging
 - [ ] Realtime
-- [ ] Sites
+- [x] Sites
 
-## Project Repo  
-_Share a public repo link of your project_
-
-<!--
-https://github.com/code-capture/CodeCapture-Xamarin
--->
+## Project Repo
+https://github.com/aryamitra06/bodiq
 
 ## Deployed Site URL
-_Share a `.appwrite.network` URL for your project_
-
-<!--
-https://hacktoberfest.appwrite.network
--->
+https://bodiq.appwrite.network/
 
 ## Demo Video/Photos  
-_Share a 2-3 minute demo video of your project_
-
-<!--
-https://www.youtube.com/watch?v=9IBaX1avYWc
--->
+TODO
